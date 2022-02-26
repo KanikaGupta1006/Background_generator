@@ -1,1 +1,1 @@
-# js_proj
+# Background generator using basic js
